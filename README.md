@@ -1,8 +1,7 @@
 <h1 align="center">Hello World 👋, I'm Salma DKIER</h1>
-<h3 align="center">A passionate Data Science Engineering student, who helps people Level Up their lives and Careers.</h3>
+<h3 align="center">A passionate Data Science Engineering student, Helping people Level Up their lives and Careers.</h3>
 
 
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=girl-coding" alt="girl-coding" /></a> </p>
 
 
 
