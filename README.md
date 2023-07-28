@@ -7,9 +7,31 @@
 
 <p align="left"> <a href="https://twitter.com/salmadkier" target="blank"><img src="https://img.shields.io/twitter/follow/salmadkier?logo=twitter&style=for-the-badge" alt="salmadkier" /></a> </p>
 
-- 📝 I regularly write articles on [https://medium.com/@dkier.salma](https://medium.com/@dkier.salma)
+- 🔭 I’m a Data Scientist Student Grad 2024 at age 21.
 
-- 👋 Want to have a constructive talk? => **dkier.salma@gmail.com**
+- Research Assistant at  University of Ottawa - Canada .
+
+- Data Engineer Mentor at Technocollabs Softwares - Part Time.
+
+- 👯 With a good Full Stack background.
+
+- 💬 Strong Knowledge on AI and Machine Learning.
+
+- 👨‍💻 With combination of Big Data and Data Engineering.
+
+- ⚡ I'm Currently Learning everything related to DevOps.
+
+- 📊 So that I can automate by myself every End to End project I've worked on 👊🏻.
+
+- Community Influencer 👁️‍🗨️
+    . I write daily about AI news & Tips to lead a successful career.
+    . I generate usefull Notion templates that will help you organise your life ,capture your notes, tasks, projects, and resources in one place.
+    . 📝 I regularly write articles on [https://medium.com/@dkier.salma](https://medium.com/@dkier.salma) .
+    . I can help you lead a successful IT career , From being technically capable to showcasing your skills .
+    . I am  your personal branding Consultant .
+    . I believe that everyday is a new opportunity to learn something new.
+
+- 👋 Want to have a constructive talk? Book Your Spot => **dkier.salma@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
