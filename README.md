@@ -1,7 +1,6 @@
 <h1 align="center">Hello World 👋, I'm Salma DKIER</h1>
 <h3 align="center">A passionate Data Science Engineering student, who helps people Level Up their lives and Careers.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=girl-coding&label=Profile%20views&color=0e75b6&style=flat" alt="girl-coding" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=girl-coding" alt="girl-coding" /></a> </p>
 
@@ -23,7 +22,9 @@
 
 - 📊 So that I can automate by myself every End to End project I've worked on 👊🏻.
 
-- I am a Community Influencer 👁️‍🗨️: 
+- I am a Community Influencer 👁️‍🗨️:
+
+  
     .I write daily about AI news & Tips to lead a successful career.
   
     . I generate usefull Notion templates that will help you organise your life ,capture your notes, tasks, projects, and resources in one place.
