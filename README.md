@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Data Science Engineering student, who helps people Level Up their lives and Careers.</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=girl-coding" alt="girl-coding" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/salmadkier" target="blank"><img src="https://img.shields.io/twitter/follow/salmadkier?logo=twitter&style=for-the-badge" alt="salmadkier" /></a> </p>
 
