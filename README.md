@@ -26,7 +26,7 @@
 - I am a Community Influencer 👁️‍🗨️:
 
   
-    .I write daily about AI news & Tips to lead a successful career.
+    . I write daily about AI news & Tips to lead a successful career.
   
     . I generate usefull Notion templates that will help you organise your life ,capture your notes, tasks, projects, and resources in one place.
 
