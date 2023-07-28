@@ -1,5 +1,5 @@
 <h1 align="center">Hello World 👋, I'm Salma DKIER</h1>
-<h3 align="center">A passionate Data Science Engineering student, who helps people Level Up their lives and Carees.</h3>
+<h3 align="center">A passionate Data Science Engineering student, who helps people Level Up their lives and Careers.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=girl-coding&label=Profile%20views&color=0e75b6&style=flat" alt="girl-coding" /> </p>
 
@@ -23,12 +23,17 @@
 
 - 📊 So that I can automate by myself every End to End project I've worked on 👊🏻.
 
-- Community Influencer 👁️‍🗨️
-    . I write daily about AI news & Tips to lead a successful career.
+- I am a Community Influencer 👁️‍🗨️: 
+    .I write daily about AI news & Tips to lead a successful career.
+  
     . I generate usefull Notion templates that will help you organise your life ,capture your notes, tasks, projects, and resources in one place.
+
     . 📝 I regularly write articles on [https://medium.com/@dkier.salma](https://medium.com/@dkier.salma) .
+  
     . I can help you lead a successful IT career , From being technically capable to showcasing your skills .
+  
     . I am  your personal branding Consultant .
+  
     . I believe that everyday is a new opportunity to learn something new.
 
 - 👋 Want to have a constructive talk? Book Your Spot => **dkier.salma@gmail.com**
