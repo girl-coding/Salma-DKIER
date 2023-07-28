@@ -4,7 +4,6 @@
 
 
 
-
 <p align="left"> <a href="https://twitter.com/salmadkier" target="blank"><img src="https://img.shields.io/twitter/follow/salmadkier?logo=twitter&style=for-the-badge" alt="salmadkier" /></a> </p>
 
 - 🔭 I’m a Data Scientist Student Grad. 2024 at age 21.
